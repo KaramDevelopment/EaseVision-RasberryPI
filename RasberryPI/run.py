@@ -53,13 +53,13 @@ def main():
         files = {
             'features': (None, 'objects'),
             'threshold': (None, '0.4'),
-            'collection_ids': (None, 'af9f4b2d-6d2f-4606-a746-977079000aae'),
+            'collection_ids': (None, '***********'),
             'images_file': ("snapshot-00000.jpg", open("snapshot-00000.jpg", 'rb')),
         }
 
         response = requests.post('https://gateway.watsonplatform.net/visual-recognition/api/v4/analyze',
                                  params=params, files=files,
-                                 auth=('apikey', 'zP26BYZ7Tnl1fAVtqzOPJ0EnjbgoW_q1KOPMj5v9baeR'))
+                                 auth=('apikey', '*****************'))
         print(response.json());
         try:
             m = response.json()
