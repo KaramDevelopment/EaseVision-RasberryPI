@@ -51,12 +51,13 @@ The application works collaboratively with the data being provided by an OPENMV 
 
 ### Built With
 ![layout](layout.PNG?raw=true "Optional Title")
-This project collaboralively with a [OPENMV H7 Camera]("https://github.com/andrewkaram1/EaseVision_OpenMV-Cam"), [Rabserry PI](https://github.com/andrewkaram1/EaseVision-RasberryPI). In combination the system leverages cloud services required for the project. The cloud computed data is forwarded to an application on the [Android Platform](https://github.com/andrewkaram1/EaseVision_AndroidApp) for presentation.
+
+This project collaboralively with a [OPENMV H7 Camera]("https://github.com/andrewkaram1/EaseVision_OpenMV-Cam"), [Rabserry PI](https://github.com/andrewkaram1/EaseVision-RasberryPI). In combination the system leverages cloud services required for the project. The cloud computed data is forwarded to an application on the [Android Platform](https://github.com/andrewkaram1/EaseVision_AndroidApp) for presentation
 
 [IBM Cloud Service](https://www.ibm.com/cloud/services)
-  *[IBM Watson Visual Recognition](https://www.ibm.com/cloud/watson-visual-recognition)
+  - [IBM Watson Visual Recognition](https://www.ibm.com/cloud/watson-visual-recognition)
 [OpenMV Library](https://github.com/openmv)
-* [OPENMV RPC] (https://github.com/openmv/openmv/tree/master/tools/rpc)
+  - [OPENMV RPC](https://github.com/openmv/openmv/tree/master/tools/rpc)
 
 
 
@@ -139,7 +140,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Andrew Karam - Andrewkaram44@gmail.com
 
-Project Link: [https://github.com/andrewkaram1/EaseVision-RasberryP](https://github.com/andrewkaram1/EaseVision-RasberryP)
+Project Link: [https://github.com/andrewkaram1/EaseVision-RasberryP](https://github.com/andrewkaram1/EaseVision-RasberryPi)
 
 
 
