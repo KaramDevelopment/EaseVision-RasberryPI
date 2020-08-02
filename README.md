@@ -15,14 +15,14 @@
   <p align="center">
    Ease Vision has been crafted as an innovative way to assess a population’s temperature in real time by collecting the data of individuals walking by. 
     <br />
-    <a href="https://github.com/andrewkaram1/EaseVision_AndroidApp/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/andrewkaram1/EaseVision-RasberryPI/blob/master/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://www.dropbox.com/s/ig9fvz40e18cnga/HIGHQuality_Final.mp4?dl=0">View Demo</a>
     ·
-    <a href="https://github.com/andrewkaram1/EaseVision_AndroidApp/issues">Report Bug</a>
+    <a href="https://github.com/andrewkaram1/EaseVision-RasberryP/issues">Report Bug</a>
     ·
-    <a href="https://github.com/andrewkaram1/EaseVision_AndroidApp/issues">Request Feature</a>
+    <a href="https://github.com/andrewkaram1/EaseVision-RasberryP/issues">Request Feature</a>
   </p>
 </p>
 
@@ -103,7 +103,7 @@ git clone https://github.com/andrewkaram1/EaseVision-RasberryPI
 
 ![layout](concept.PNG?raw=true "Optional Title")
 
-For more examples, please refer to the [Documentation](https://github.com/andrewkaram1/EaseVision_AndroidApp/blob/master/README.md)
+For more examples, please refer to the [Documentation](https://img.shields.io/github/license/andrewkaram1/EaseVision_AndroidApp)
 
 
 
@@ -139,7 +139,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Andrew Karam - Andrewkaram44@gmail.com
 
-Project Link: [https://github.com/andrewkaram1/EaseVision_AndroidApp](https://github.com/andrewkaram1/EaseVision_AndroidApp)
+Project Link: [https://github.com/andrewkaram1/EaseVision-RasberryP](https://github.com/andrewkaram1/EaseVision-RasberryP)
 
 
 
@@ -150,9 +150,9 @@ Project Link: [https://github.com/andrewkaram1/EaseVision_AndroidApp](https://gi
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[issues-shield]: https://img.shields.io/github/issues/andrewkaram1//EaseVision-RasberryPI
+[issues-shield]: https://img.shields.io/github/issues/andrewkaram1/EaseVision_AndroidApp
 [issues-url]:  https://github.com/andrewkaram1/EaseVision-RasberryPI/issues
-[license-shield]: 	https://img.shields.io/github/license/andrewkaram1//EaseVision-RasberryPI
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-shield]: 	https://img.shields.io/github/license/andrewkaram1/EaseVision_AndroidApp
+[license-url]: https://github.com/andrewkaram1/EaseVision-RasberryPI/blob/master/License.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/andrew-karam-b48a77170
