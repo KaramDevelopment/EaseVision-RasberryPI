@@ -35,6 +35,7 @@
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
+  * [Dependencies](#dependencies)
   * [Installation](#installation)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
@@ -67,7 +68,11 @@ This project collaboralively with a [OPENMV H7 Camera]("https://github.com/andre
 * Plug in the OpenMV Cam to the Rasberry PI
 * Configure the OpenMV Cam please see: [OpenMV Repo](https://github.com/andrewkaram1/EaseVision_OpenMV-Cam)
 
-## Dependencies
+### Prerequisites
+* [Physical OpenMV H7 Camera with a Lepton Sensor and WIFI Shield attached](https://openmv.io/)
+* Physical Rasberry PI
+
+### Dependencies
 The OpenMV Cam `rpc` library on the computer only depends on [pyserial](https://pythonhosted.org/pyserial/). All other modules used by it come installed with python. To get `pyserial` just do:
 
     pip install pyserial
@@ -78,10 +83,6 @@ However, the examples depend on [pygame](https://www.pygame.org/news) so you nee
 
 Because the interface library is implemented in pure python with no external dependencies it works on Windows, Mac, and Linux.
 
-
-### Prerequisites
-* [Physical OpenMV H7 Camera with a Lepton Sensor and WIFI Shield attached](https://openmv.io/)
-* Physical Rasberry PI
 
 ### Installation
 1. Clone the repo
