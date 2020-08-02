@@ -105,7 +105,7 @@ git clone https://github.com/andrewkaram1/EaseVision-RasberryPI
 
 ![layout](concept.PNG?raw=true "Optional Title")
 
-For more examples, please refer to the [Documentation](https://img.shields.io/github/license/andrewkaram1/EaseVision_AndroidApp)
+For more examples, please refer to the [Documentation](https://github.com/andrewkaram1/EaseVision-RasberryPI/blob/master/README.md)
 
 
 
