@@ -70,7 +70,7 @@ This project collaboralively with a [OPENMV H7 Camera]("https://github.com/andre
 
 ### Prerequisites
 * [Physical OpenMV H7 Camera with a Lepton Sensor and WIFI Shield attached](https://openmv.io/)
-* Physical Rasberry PI
+* [Physical Rasberry PI](https://github.com/andrewkaram1/EaseVision-RasberryPI)
 
 ### Dependencies
 The OpenMV Cam `rpc` library on the computer only depends on [pyserial](https://pythonhosted.org/pyserial/). All other modules used by it come installed with python. To get `pyserial` just do:
